@@ -1,0 +1,23 @@
+header { background-color: rgba(230,230,230,1);
+        text-align: center;}
+
+h1 { color: rgba(0,86,119,1);
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgba(196,196,196,1);
+    line-height: 60px;}
+
+h2 {text-transform: uppercase;
+    color: rgba(0,86,119,1);
+    background-color: rgba(196,196,196,1);
+    line-height: 30px;}
+
+footer {text-align: center;
+    color: rgb(255,255,0255);
+    background-color: rgba(0,86,119,1)}
+
+li span { font-weight: bold;
+        font-size: 15px;}
+        .cursiva{font-style:italic;}
+
+li {font-size: 15px;}
